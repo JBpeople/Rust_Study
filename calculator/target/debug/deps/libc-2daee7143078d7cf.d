@@ -1,0 +1,11 @@
+E:\200 Study\GITHUB\Rust_Project\calculator\target\debug\deps\libc-2daee7143078d7cf.rmeta: D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\lib.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\macros.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\fixed_width_ints.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\windows\mod.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\windows\msvc\mod.rs
+
+E:\200 Study\GITHUB\Rust_Project\calculator\target\debug\deps\liblibc-2daee7143078d7cf.rlib: D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\lib.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\macros.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\fixed_width_ints.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\windows\mod.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\windows\msvc\mod.rs
+
+E:\200 Study\GITHUB\Rust_Project\calculator\target\debug\deps\libc-2daee7143078d7cf.d: D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\lib.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\macros.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\fixed_width_ints.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\windows\mod.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\windows\msvc\mod.rs
+
+D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\lib.rs:
+D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\macros.rs:
+D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\fixed_width_ints.rs:
+D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\windows\mod.rs:
+D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.127\src\windows\msvc\mod.rs:

@@ -1,0 +1,10 @@
+E:\200 Study\GITHUB\Rust_Project\calculator\target\debug\deps\owned_ttf_parser-6bcc535d558922b1.rmeta: D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\lib.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\convert.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\owned.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\preparse.rs
+
+E:\200 Study\GITHUB\Rust_Project\calculator\target\debug\deps\libowned_ttf_parser-6bcc535d558922b1.rlib: D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\lib.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\convert.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\owned.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\preparse.rs
+
+E:\200 Study\GITHUB\Rust_Project\calculator\target\debug\deps\owned_ttf_parser-6bcc535d558922b1.d: D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\lib.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\convert.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\owned.rs D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\preparse.rs
+
+D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\lib.rs:
+D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\convert.rs:
+D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\owned.rs:
+D:\InstallAPP\Rust\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\owned_ttf_parser-0.15.1\src\preparse.rs:
